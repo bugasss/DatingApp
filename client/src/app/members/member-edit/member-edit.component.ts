@@ -14,7 +14,7 @@ import { MembersService } from 'src/app/_services/members.service';
   styleUrls: ['./member-edit.component.css']
 })
 export class MemberEditComponent implements OnInit {
-  @ViewChild('editForm') editForm : NgForm | undefined;
+  @ViewChild('editForm') editForm : NgForm | undefined;//the form in the template is a child of the file .ts
   @HostListener('window:beforeunload', ['$event']) unloadNotification($event: any){
     $event.returnValue = true;
   }
