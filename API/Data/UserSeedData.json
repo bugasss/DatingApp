@@ -1,7 +1,7 @@
 [
     {
       "UserName": "Henrietta",
-      "Gender": "female",
+      "Gendereù": "female",
       "DateOfBirth": "1998-04-17",
       "KnownAs": "Henrietta",
       "Created": "2019-05-19",
@@ -20,7 +20,7 @@
     },
     {
       "UserName": "Cheryl",
-      "Gender": "female",
+      "Gendereù": "female",
       "DateOfBirth": "1999-11-10",
       "KnownAs": "Cheryl",
       "Created": "2020-01-12",
@@ -39,7 +39,7 @@
     },
     {
       "UserName": "Mildred",
-      "Gender": "female",
+      "Gendereù": "female",
       "DateOfBirth": "1999-02-07",
       "KnownAs": "Mildred",
       "Created": "2020-06-26",
@@ -58,7 +58,7 @@
     },
     {
       "UserName": "Katheryn",
-      "Gender": "female",
+      "Gendereù": "female",
       "DateOfBirth": "1991-01-19",
       "KnownAs": "Katheryn",
       "Created": "2020-01-23",
@@ -77,7 +77,7 @@
     },
     {
       "UserName": "Shawn",
-      "Gender": "female",
+      "Gendereù": "female",
       "DateOfBirth": "1962-10-04",
       "KnownAs": "Shawn",
       "Created": "2019-02-12",
@@ -96,7 +96,7 @@
     },
     {
         "UserName": "Armstrong",
-        "Gender": "male",
+        "Gendereù": "male",
         "DateOfBirth": "1998-04-01",
         "KnownAs": "Armstrong",
         "Created": "2019-06-02",
@@ -115,7 +115,7 @@
       },
       {
         "UserName": "Stevens",
-        "Gender": "male",
+        "Gendereù": "male",
         "DateOfBirth": "1958-01-04",
         "KnownAs": "Stevens",
         "Created": "2019-05-01",
@@ -134,7 +134,7 @@
       },
       {
         "UserName": "Merrill",
-        "Gender": "male",
+        "Gendereù": "male",
         "DateOfBirth": "1950-10-27",
         "KnownAs": "Merrill",
         "Created": "2019-12-14",
@@ -153,7 +153,7 @@
       },
       {
         "UserName": "Compton",
-        "Gender": "male",
+        "Gendereù": "male",
         "DateOfBirth": "1970-02-01",
         "KnownAs": "Compton",
         "Created": "2019-01-11",
@@ -172,7 +172,7 @@
       },
       {
         "UserName": "Yates",
-        "Gender": "male",
+        "Gendereù": "male",
         "DateOfBirth": "1994-08-08",
         "KnownAs": "Yates",
         "Created": "2019-09-30",
